@@ -14,3 +14,11 @@ Different web shops such as Beatport and Bandcamp may use .AIF and .AIFF extensi
 
 <img width="543" height="387" alt="image" src="https://github.com/user-attachments/assets/6e9efa9e-6821-49ac-a42e-87682fdab964" />
 
+
+## Version History
+V1.0
+- Initial Release
+
+V1.1
+- Current Version
+- Updated title bar to match app styling
